@@ -111,8 +111,8 @@
   <a href="https://linkedin.com/in/Rifky Putra Wijaya" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://dribbble.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" />
+  <a href="https://instagram.com/r.kyptraa" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" />
   </a>
   <a href="mailto:rifkyputradec@gmail.com.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
